@@ -1,0 +1,20 @@
+{
+  "name": "socket-exp",
+  "version": "1.0.0",
+  "description": "socket.io example using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket.io"
+  ],
+  "author": "fjgl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
